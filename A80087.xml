@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal to prevent further decay in harbours, &amp;c. without charge. To the Honourable the Commons of England, in Parliament assembled. / Your petitioner Robert Colepepyr, Gentleman ...</title>
+            <author>Colepepyr, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80087</idno>
+            <idno type="STC">Wing C5060</idno>
+            <idno type="STC">ESTC R171424</idno>
+            <idno type="EEBO-CITATION">45097637</idno>
+            <idno type="OCLC">ocm 45097637</idno>
+            <idno type="VID">171241</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171241)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal to prevent further decay in harbours, &amp;c. without charge. To the Honourable the Commons of England, in Parliament assembled. / Your petitioner Robert Colepepyr, Gentleman ...</title>
+                  <author>Colepepyr, Robert.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from p. 4.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harbors --  England --  Early works to 1800.</term>
+               <term>Harbors --  Maintenance and repair --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:171241:1" rendition="simple:additions"/>
+            <head>A PROPOSAL, <hi>To prevent further Decay in Harbours,</hi> &amp;c. <hi>without Charge.</hi> TO THE HONOURABLE THE COMMONS of <hi>England,</hi> in Parliament Aſſembled.</head>
+            <opener>Your Petitioner <hi>Robert Colepepyr,</hi> Gentleman, <hi>Humbly Prays,</hi>
+            </opener>
+            <p>That he may more largely Treat of the Decays of our Harbours, Havens and Ports, and touching their Preſervation, than is ſhewn in his late Petition for that Service; or in the Bill for the ſame, now depending before this Honourable Houſe.</p>
+            <p>THe many Petitions to this Honourable Houſe for Bills, to deepen and cleanſe Harbours and Havens, ſeems to prove Decay in the ſame: And I apprehend the Sands that cauſe ſuch Decay, are brought by Land-flouds and Tides: And left on our Barrs. Becauſe the Sea doth Ebb before our Harbours and Channels; and by ſuch abatement in depth, of that wide Expanſion without the Harbours Mouth, the Ebbs are kept to good Motion in the Harbours, and Channels, and often have greater Motion there than in the Sea, <hi>(viz.)</hi> when the Winds are Low; but eſpecially in Calms at Low-water: For then the Sea has no Motion, but a ſmall ſwell againſt the Shore and back again.</p>
+            <p>If the lower-end of the Channel or Harbour, be originally ſo wide, that the Influx and Efflux cannot ſcower the ſame; or hath been worn ſo wide by Storms: Then Sands may be brought from the better propor<g ref="char:EOLhyphen"/>tion'd Parts of a Channel, to ſuch lower-end, and may there ſettle and remain. But how well ſoever a whole Channel is proportion'd to the ſtrength of Influx and Efflux; Yet the ſtrength of Efflux muſt wholly ceaſe where it falls into the Sea: Becauſe the ſame is much wider than any Channel.</p>
+            <p>Then whatever quantities of freſh and Salt Waters, may Deſcend or Ebb from great Waſts or Channels; yet the ſame, when Iſſued out of the Channel, can have but ſuch Motion, as then and there attends the Sea. Wherefore I conclude, all Waters that are quiet, or have little Motion, do drop Sand; either within their Channel, or juſt without it. And that
+<pb facs="tcp:171241:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:171241:3"/>
+ſtrength of Influx and Efflux, that cannot keep Sand from ſettling, while the ſame is in ſmall Motion, can never raiſe that Sand again, and carry it away after 'tis ſettled.</p>
+            <p>The Influx and Efflux, in quiet Weather, ſeem therefore to diſperſe no Sand from Barrs that lye without our Out-falls; But on the contrary, ſuch Barrs then grow higher, and are only taken down by Storms. For Ex<g ref="char:EOLhyphen"/>ample: Some Sand Banks that lye under Land Shelter remain dry, ex<g ref="char:EOLhyphen"/>cept ſome few Tides in a Stream; yet other Banks that lye more Expos'd to Storms, are Drown'd every Tide; and in this Example it matters not whether Sands lye quiet by means of land Shelter, or from calm Weather.</p>
+            <p>Whence the Efflux that's moſt ſerviceable to out-fall Barrs, only carries all Sand beyond the out-fall; yet there makes an unpaſſible Barr of the ſame, if Storms help not; So the ſervice ſuch out lying Barrs have from Efflux, is by laying all Sand in reach of Storms. And thoſe out-lying Barrs that are moſt Expos'd to Storms, will always be found loweſt, in Seas of the ſame depth. But a ſtrong Efflux doth carry out Sand from a Chan<g ref="char:EOLhyphen"/>nel Barr, and Deepen, and Cleanſe Channels and Harbours, even in calm Wea<g ref="char:EOLhyphen"/>ther. Which Efflux together with Tides, and ſuch Storms as can blow in thoſe Parts, ſeem the only means to remove thoſe Evils, and make a laſting depth there: Becauſe the Tendency of Winds and Water, doth effect the ſame.</p>
+            <p>Therefore any Works that leſſen or obſtruct Influx, Efflux and Winds, in Channels and Harbours; do ſeem to cauſe thoſe Evils there. And al<g ref="char:EOLhyphen"/>ſo cauſe Sand to remain and increaſe on an out-lying Barr; Where greater Efflux would lay ſuch Barr more in reach of Storms. Whence it ſeems fit we ſhould leave fighting againſt thoſe ſtrong Elements, by any new Works; eſpecially where good Navigations and Land-Drains may be otherwiſe ob<g ref="char:EOLhyphen"/>tain'd, and at far leſs Charge.</p>
+            <p>The greateſt Influx and Efflux we ever had, did widen our reſpective Channels and out-falls to the breadth ſuch Waters wanted; which breadth generally remains where our Barrs lie. Therefore the Imbankment of ſalt Waſts do abate the ſtrength of Influx and Efflux, and diſable them to ſcower thoſe wide Paſſages, and maintain ſuch depth there as greater Wa<g ref="char:EOLhyphen"/>ters did.</p>
+            <p>To ſhew what Imbankments are ſo prejudicial, and where Imbankments may be made: I ſay the ſalt Waſts in a Channel do deepen any Bar or ſhallow part of a Harbour; when ſuch Waſts are drown'd, before, 'tis high Water over that Barr, or ſhallow Part. For then thoſe Waſts draw a conſtant Influx and Efflux over the ſame: Therefore the Imbankment of ſuch Waſts do ſeem to looſe Water on thoſe Barrs and ſhallow Parts. But the ends of a Sand Barr that lye dry at Ebb, may be raiſed to the height of marſh Land; and the ſame, or any high Salts found there, may be Im<g ref="char:EOLhyphen"/>banked of with benefit to Navigation. For then the ſalt Waſts or Baſon within, will the better ſcower and deepen the remainder, or middle part of that Barr. And the ends of a Barr may be ſo raiſed by ſtopping of bottom Water, yet more than two Inches at a time needs not to be ſtopp'd, nor will the Charge thereof be conſiderable; when hereafter this Ho<g ref="char:EOLhyphen"/>nourable Houſe ſhall ſee fit to mend Navigations by ſuch Works.</p>
+            <p>Such benefit by Imbankments on Barrs ſeems certain; For all ſide Im<g ref="char:EOLhyphen"/>bankments
+<pb facs="tcp:171241:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:171241:5"/>
+do deepen the Channel wherever the ſame are made, and force the Tides higher up in the Country, and mend the depth there; and ſo the Navigation receives benefit by all ſide Imbankments. But if ſuch Imbank<g ref="char:EOLhyphen"/>ments Inn Waſts that lye within a Barr, and that would be drown'd before 'tis high Water thereon; then the Imbankment leſſens Influx and Efflux, and ſo looſes Water on the Barr, and thereby does much more Damage, than benefit to Navigation.</p>
+            <p>That ſide Imbankments ſhould gain depth of Water in one Place, and looſe it in another, is a very different Operation from the ſame Work, and ſeems not diſcover'd in former times; becauſe ſuch Imbankments were then recommended as generally beneficial to Navigation. From whence the Government did incourage or permit Imbankments, without aſcertaining where the ſame might be made. Which miſtake in the Go<g ref="char:EOLhyphen"/>vernment, with the Intereſt of Imbankers, have damnified many Har<g ref="char:EOLhyphen"/>bours, and wholly loſt ſome. Yet if any ſhould doubt whether the De<g ref="char:EOLhyphen"/>cays of our Navigations come from ſuch Imbankments, The ſame ſeems alſo proved by Fact: For our Imbankments and Complaints of Decay have both been greater of late Years than formerly; and <hi>Rye</hi> Harbour did Decay gradually as Imbankments were made, and that Corporation did prove the ſame to the Committee of this Honourable Houſe, to whom their Petition touching their Harbour was referr'd.</p>
+            <p>Offenſive Imbankments on Channel ſides, ſeem by Permiſſion of the Government, and from an Expectation of publick Benefit. And though the Government might miſtake as before ſhewn: Yet the Gentlemen poſ<g ref="char:EOLhyphen"/>ſeſs'd of thoſe Imbanked Lands, have been at great Riſque and Charge for the ſame.</p>
+            <p>The Imbankment of all remaining Sea Waſts, may be Prohibited by Act of Parliament, when ſuch Waſts are drown'd before 'tis high Water in the Har<g ref="char:EOLhyphen"/>bour, and on the Barr without or below ſuch Waſts. And ſo our Harbours, Havens, Ports and Barrs may be kept from growing worſe, by any Im<g ref="char:EOLhyphen"/>bankments to be made; and that without Charge, or doubt of Succeſs. For I propoſe no Works for this Benefit; but hope to obtain the ſame, on<g ref="char:EOLhyphen"/>ly by ſuch Prohibition of this Honourable Houſe as above.</p>
+            <p>Since the ſaid offenſive Imbankments on Channel ſides, and alſo other Imbankments made by Stops croſs the Channels, have been made by advice of Gentlemen, whoſe Judgments were beſt eſteemed in their time, and my ſelf unknown. I did therefore formerly pray the worthy Sir <hi>Henry Shere,</hi> to give his thoughts of theſe obſervations by Certificate: which Certifi<g ref="char:EOLhyphen"/>cate he permits me to Print at the end of this Propoſal. And have further to Inform, That three of his Majeſty's Surveyors (after view of our Coaſt) agree with me touching the ſaid Imbankments; but in regard their Report (being long on other occaſions) is now before the Committee for <hi>Rye</hi> Har<g ref="char:EOLhyphen"/>bour, I therefore pray leave to referr to the ſame.</p>
+            <p>If the Gentlemen who advis'd the ſaid Imbankments, could now ſee their ill Conſequences; I am Confident they would alſo readily agree with me. And if the propoſed Bill paſs not into an Act this Seſſions, I appre<g ref="char:EOLhyphen"/>hend five hundred Acres more of Sea Waſts will be Imbank'd out of the Indraught of <hi>Rye</hi> Harbour, before this Honourable Houſe ſhall meet next. And 'tis probable many other Harbours may be ſo damnified.</p>
+            <pb facs="tcp:171241:6"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="4" facs="tcp:171241:7"/>Our ſtrength at Sea, conduces much to our ſecurity againſt any Neigh<g ref="char:EOLhyphen"/>bouring Nation, that may out-number us in Land Forces; and will re<g ref="char:EOLhyphen"/>main a ſecurity while we are Maſters there. And Sea Men are for the uſe of our Navy, yet by the loſs of mean Harbours, and impair of better, we leſſen our Breed of thoſe Men; and many more are Drown'd by loſs of Wa<g ref="char:EOLhyphen"/>ter on our Barrs and Flats, at the Mouths of our better Channels.</p>
+            <p>If any other Nation uſe Indeavours to increaſe it's Naval Force, to be<g ref="char:EOLhyphen"/>come our Superiour at Sea; Then the offenſive Imbankers ſeem to aſſiſt them therein; (yet with no ill intent) for without good Ports, our Iſland and Shipping are a feeble Defence. It ſhall ſuffice me to mention but this one Publick Evil attending thoſe offenſive Imbankments; yet many more might be enumerated.</p>
+            <p>Till the Obſtructions are remov'd out of the main Channel of <hi>Rye</hi> Harbour, that Harbour cannot be improv'd; nor can Three Fathom of Water at low Ebb be gain'd on a new out-fall Barr in thoſe Parts; as by my Petiti<g ref="char:EOLhyphen"/>on to this Honourable Houſe (and now before the Committee for <hi>Rye</hi> Harbour) is propos'd. But if a Bill ſhall hereafter be brought in, and open that Channel, the ſame may probably make five Fathoms of Water at low Ebb in <hi>Rye</hi> Harbour; and if ſo, I will then hope to ſhew that Tides and Storms will be enough on my ſide, to make three Fathom at Ebb, on ſuch Barr as will ſettle without my new out-fall. And I the rather expect ſuch depth, becauſe <hi>Rye</hi> Corporation prove three Fathom of Water now in their Harbour at low Ebb, and that ſeven Fathom hath been there former<g ref="char:EOLhyphen"/>ly; as by their Proofs before the ſaid Committee may appear.</p>
+            <p>I preſume this Honourable Houſe had rather preſerve our Navigations from growing worſe without Charge, than at preſent expend Publick Mo<g ref="char:EOLhyphen"/>ny on their Improvements. Therefore I will ſay no more now touching theſe Services,</p>
+            <closer>
+               <signed>Robert Colepepyr.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <date>May the 30th 1698.</date>
+               </dateline>
+            </opener>
+            <p>AT the deſire of Mr. <hi>Colepepyr,</hi> I do hereby Certifie whom it may concern; That I have perus'd ſeveral of his Papers and Propoſals, Printed and others, on the Subject of his Memorials, touching the remedies of thoſe many Evils the Nation ſuffers, through the loſs of Water, on our Coast and in Rivers; wherein there ſeems to me to be contain'd many rational and well grounded Obſervations a<g ref="char:EOLhyphen"/>bout the Decay and Impediments of the Navigation of this Kingdom, by the loſs of Water in our Rivers, and the growing of Barrs, Banks and Shelves in our Havens, in ſundry places on the Coast, to the great prejudice of the general Com<g ref="char:EOLhyphen"/>merce and Water Carriage of the Nation. By which Papers and Propoſals, and my frequent Converſation with him on thoſe Subjects, I obſerve him (according to my poor abilities to Judge,) to be a Perſon both well inſtructed in the Theory, and grounded in the Practice and Experience of ſuch Works: Diſcourſing rightly a<g ref="char:EOLhyphen"/>bout the Cauſes of the ſaid Evils to our Navigation, and Practicably of the Re<g ref="char:EOLhyphen"/>medies. Which uſeful Qualities of the ſaid Mr. <hi>Colepepyr,</hi> may, I humbly con<g ref="char:EOLhyphen"/>ceive, intitle him to Publick Incouragement.</p>
+            <closer>
+               <signed>Witneſs my Hand, Henry Shere.</signed>
+            </closer>
+            <pb facs="tcp:171241:8" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
